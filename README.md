@@ -1,4 +1,9 @@
-### Hi there 👋
+### Greetings.
+
+I'm Anaïs. Friends call me Ania. I'm working as a penetration tester. 
+I get bored easily so I'm always learning something new. I'm a translation & geopolitics graduate who decided to eventually bruteforce her way in cybersecurity. Reading about data privacy brought me here. I hate the fact that big corporations make money over my data. I'm interested in OSINT, web exploitation, art, plants, sports and learning languages.
+
+Here's my [Linkedin](https://www.linkedin.com/in/anais-dhnd). 
 
 <!--
 **Anja-dhnd/anja-dhnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
